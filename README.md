@@ -1,3 +1,19 @@
+# Strategy
+
+![README_img/003.jpg](https://github.com/AkienMain/yogapose-classification-ocr/blob/master/README_img/003.jpg?raw=true)  
+
+## Create Image
+
+![README_img/001.jpg](https://github.com/AkienMain/yogapose-classification-ocr/blob/master/README_img/001.jpg?raw=true)  
+![README_img/002.jpg](https://github.com/AkienMain/yogapose-classification-ocr/blob/master/README_img/002.jpg?raw=true)  
+
+## CNN model for OCR
+
+![README_img/004.jpg](https://github.com/AkienMain/yogapose-classification-ocr/blob/master/README_img/004.jpg?raw=true)  
+
+# Run Code
+
+[Execute main.ipynb on Google Colab](https://colab.research.google.com/github/AkienMain/yogapose-classification-ocr/blob/master/main.ipynb)
 
 # Original Dataset
 
