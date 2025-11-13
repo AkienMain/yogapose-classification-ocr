@@ -1,15 +1,15 @@
 # Strategy
 
-![README_img/003.jpg](https://github.com/AkienMain/yogapose-classification-ocr/blob/master/README_img/003.jpg?raw=true)  
+![README_img/003.png](https://github.com/AkienMain/yogapose-classification-ocr/blob/main/README_img/003.png?raw=true)  
 
 ## Create Image
 
-![README_img/001.jpg](https://github.com/AkienMain/yogapose-classification-ocr/blob/master/README_img/001.jpg?raw=true)  
-![README_img/002.jpg](https://github.com/AkienMain/yogapose-classification-ocr/blob/master/README_img/002.jpg?raw=true)  
+![README_img/001.png](https://github.com/AkienMain/yogapose-classification-ocr/blob/main/README_img/001.png?raw=true)  
+![README_img/002.png](https://github.com/AkienMain/yogapose-classification-ocr/blob/main/README_img/002.png?raw=true)  
 
 ## CNN model for OCR
 
-![README_img/004.jpg](https://github.com/AkienMain/yogapose-classification-ocr/blob/master/README_img/004.jpg?raw=true)  
+![README_img/004.png](https://github.com/AkienMain/yogapose-classification-ocr/blob/main/README_img/004.png?raw=true)  
 
 # Run Code
 
